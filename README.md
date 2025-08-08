@@ -1,4 +1,4 @@
- Visão Geral do Projeto (Abrir pacotes)
+## Visão Geral do Projeto (Abrir pacotes)
 
 Este é um **site interativo em HTML, CSS e JavaScript** que simula a experiência de **abrir um pacote de cartas Pokémon**. O usuário pode revelar cartas aleatórias e salvá-las em sua coleção local.
 
